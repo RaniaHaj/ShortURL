@@ -6,7 +6,7 @@ In case you do not have pip you need to install it by following the command in t
 https://www.a2hosting.com/kb/developer-corner/mysql/connecting-to-mysql-using-python
 Step 3: Every thing is ready you can run the code.
 in case you want to the sql tables you need to download MYSql workbench
-Add ne connection and fill this fields:
+Add new connection and fill this fields:
 Host:bpyehzw0tbncbbblslvj-mysql.services.clever-cloud.com
 User:uzfrys137onqxtxt
 Password:1KnD3S6mCTHw1RZAHL0O
